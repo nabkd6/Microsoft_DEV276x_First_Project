@@ -4,7 +4,8 @@ Below is a link and description of the 1st "project" for this course. This is th
 
 [Project assignment link](https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+2T2019/courseware/af5e9113c16c49d698dd0f95924f663a/f74ffdf01641458a8393aaf2ae585a77/1?activate_block_id=block-v1%3AMicrosoft%2BDEV276x%2B2T2019%2Btype%40vertical%2Bblock%40211ac279b1194a5a96ab24b5d8c1eeda).
 
-#Module Project - Trip Planner
+# Module Project - Trip Planner
+
 For this project, you are going to write a program that asks the user for some information about an international trip they are taking. Based on that information you will need to do some conversions, using the correct data types, to tell them some information to help them plan their trip. Here is my sample output:
 ![program output](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/27fed0c3d34db3d602bfe593552794d7/asset-v1:Microsoft+DEV276x+2T2019+type@asset+block/1-sampleOutput.png)
 
