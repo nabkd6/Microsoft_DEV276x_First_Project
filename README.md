@@ -1,6 +1,7 @@
 Code for Microsoft: DEV276x Learn to Program in Java
 
 Below is a link and description of the 1st "project" for this course. This is the very basics of Java introduction, so I will first just complete it to the specs.
+Additions/modifications to project are followed below project description.
 
 [Project assignment link](https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+2T2019/courseware/af5e9113c16c49d698dd0f95924f663a/f74ffdf01641458a8393aaf2ae585a77/1?activate_block_id=block-v1%3AMicrosoft%2BDEV276x%2B2T2019%2Btype%40vertical%2Bblock%40211ac279b1194a5a96ab24b5d8c1eeda).
 
@@ -65,3 +66,4 @@ This code will need to be added to each of the methods you wrote for parts II, I
 For extra fun, calculate the distance between the user’s home and their travel destination using the Haversine formula. https://en.wikipedia.org/wiki/Haversine_formula To do this you’ll need to ask the user to enter the longitude and latitude for their home and their travel destination. You’ll also need to do some pretty fancy math.
 
 To do fancy math in Java (cos, sin, squared etc…) you can use the Math Class. Here is the documentation for that: https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html All the code to accomplish the hacker problem should be in its own method.
+
